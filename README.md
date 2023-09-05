@@ -11,3 +11,14 @@ This GitHub repository hosts a comprehensive project that leverages deep learnin
 
 <br>
 By making use of this repository, you can create a robust and efficient fire and smoke detection system that not only safeguards lives and property but also serves as a valuable resource for research and development in the field of computer vision and IoT-based safety solutions. Join us in enhancing fire safety with cutting-edge technology.
+
+<br>
+
+## File structure:
+1. **Training Networks**: Folder that contains the IPYNB file for training and testing the Neural Networks used in this project.
+2. **video_real_time.py**: Python file that uses our trained model to detect fire and smoke from real-time feed and connect this project with our Arduino-Based Alarm.
+
+<br>
+
+## Demo Video
+Link: https://drive.google.com/file/d/1-IUZg3000aCQ38kc9GV0y0vUTJiv2vg1/view?usp=sharing
